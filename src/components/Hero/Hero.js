@@ -9,8 +9,8 @@ const Header = () => {
     <section id="welcome-section" className="jumbotron">
       <div className="container">
         <h1 id="opening-text">
-          {title || 'Hi, my name is'}{' '}
-          <span className="text-color-main">{name || 'Aakash Kumar'}</span>
+          {title || 'Hi, I am'}{' '}
+          <span className="text-color-main">{name || 'Aakash'}</span>
           <br />
           {subtitle || "I'm a Full Stack Developer."}
         </h1>
