@@ -12,7 +12,7 @@ export const aboutData = {
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://bit.ly/dajkkij',
+  resume: 'https://bit.ly/2MbGBM4',
 };
 
 // PROJECTS DATA
