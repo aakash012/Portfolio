@@ -25,6 +25,13 @@ export const projectsData = [
     img: '/assets/portfolio.png',
   },
   {
+    title: 'A Simple chat app',
+    info: 'A Simple chat app built using HTML, CSS and Node.js. It is a simple chat application that has functionalities such as rooms for group chat and location sharing.',
+    url: 'https://github.com/aakash012/chat-app',
+    repo: 'https://github.com/aakash012/chat-app', // if no repo, the button will not show up
+    img: '/assets/chatApp.png',
+  },
+  {
     title: 'Simple Calculator Web App',
     info: 'A Simple calculator web app using react javascript.',
     url: 'https://calculator0.firebaseapp.com/',
