@@ -25,3 +25,6 @@ The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+
+[![Run on Repl.it](https://repl.it/badge/github/aakash012/Portfolio)](https://repl.it/github/aakash012/Portfolio)
